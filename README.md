@@ -42,7 +42,6 @@ Team ID: ```CH2-PS277```
 [![Postman][postman]][postman-url]
 
 
-
 [contributors-shield]: https://img.shields.io/github/contributors/baksara-id/machine-learning.svg?style=for-the-badge
 [contributors-url]: https://github.com/caraka-id/machine-learning/graphs/contributors
 [linkedin-url1]: https://linkedin.com/in/achmadnr9
@@ -64,4 +63,12 @@ Team ID: ```CH2-PS277```
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [pycharm-url]: https://www.jetbrains.com/pycharm/
 [figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-[figma-url]: https://figma.com/ 
+[figma-url]: https://figma.com/
+[firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
+[firebase-url]: https://firebase.google.com/
+[google-cloud]: https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
+[google-cloud-url]: https://cloud.google.com/
+[node-js]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[node-js-url]: https://nodejs.org/
+[postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[postman-url]: https://postman.com/
