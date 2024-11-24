@@ -17,12 +17,12 @@ Team ID: ```CH2-PS277```
 |Path  |Name |Bangkit ID |University |
 |------|------|------------|-----------|	
 |ML    |Adam Fikriansyah Akbar |M284B4KY0069 |Universitas Negeri Surabaya |
-|ML    |Agatha Angelina |M244BSX0068 |Universitas Kristen Petra |
-|ML    |Edina Alana |M296BSX1153 |Universitas Pembangunan Nasional Veteran Jawa Timur |
-|CC    |Raden Septiaji |C123BSY3879 |Politeknik Elektronika Negeri Surabaya |
-|CC    |Frick Irsyad |C123BSY3880 |Politeknik Elektronika Negeri Surabaya |
-|MD    |Irfan Efendi |A202BSY2519 |Universitas Dr Soetomo |
-|MD    |M Dolyanda |A671BKY4489 | UIN Ar Raniry |
+|ML    |Nathania Eka Harto |M284B4KX3273 |Universitas Negeri Surabaya |
+|ML    |Faatih Sabiil An Najaah |M180B4KY1305 |Universitas Airlangga |
+|CC    |Arifatus Fitriani |C296B4KX0643 |Universitas Pembangunan Nasional Veteran Jawa Timur |
+|CC    |Irfan Efendi |C202B4KY2532 |Universitas Dr Soetomo |
+|MD    |Panca Dewi Fitriyana |A284B4KX3470 |Universitas Negeri Surabaya |
+|MD    |Hana Alyakinanti |A284B4KX1697 | Universitas Negeri Surabaya |
 
 ## Built With
 
