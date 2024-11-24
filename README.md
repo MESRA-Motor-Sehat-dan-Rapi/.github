@@ -24,6 +24,24 @@ Team ID: ```CH2-PS277```
 |MD    |Irfan Efendi |A202BSY2519 |Universitas Dr Soetomo |
 |MD    |M Dolyanda |A671BKY4489 | UIN Ar Raniry |
 
+## Built With
+
+[![PyCharm][pycharm]][pycharm-url]
+[![Python][python]][python-url]
+[![Tensorflow][tensorflow]][tensorflow-url]
+[![Keras][keras]][keras-url] 
+[![OpenCV][opencv]][opencv-url]
+[![Numpy][numpy]][numpy-url]
+[![Matplotlib][matplotlib]][matplotlib-url]
+
+[![AndroidStudio][android-studio]][android-studio-url]
+[![Figma][figma]][figma-url]
+[![Firebase][firebase]][firebase-url]
+[![Google-Cloud][google-cloud]][google-cloud-url]
+[![NodeJS][node-js]][node-js-url]
+[![Postman][postman]][postman-url]
+
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/baksara-id/machine-learning.svg?style=for-the-badge
 [contributors-url]: https://github.com/caraka-id/machine-learning/graphs/contributors
@@ -46,4 +64,4 @@ Team ID: ```CH2-PS277```
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [pycharm-url]: https://www.jetbrains.com/pycharm/
 [figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-[figma-url]: https://figma.com/
+[figma-url]: https://figma.com/ 
