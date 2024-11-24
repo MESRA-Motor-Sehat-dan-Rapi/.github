@@ -12,6 +12,15 @@ Team ID: ```CH2-PS277```
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="175" height="175" alt="firebase-logo"/>        
 </div>
 
+## Overview
+
+<div align="justify">
+  
+Around us, we often find vehicle users who do not understand the importance of routine maintenance, especially those who do not have mechanical knowledge. Many users ignore the service schedule until damage occurs which costs a lot of money. Vehicle owners, especially those who are busy or less experienced, often lack clear guidance regarding the maintenance that needs to be performed.
+To solve this problem, we designed a vehicle maintenance app that is more than just a service reminder. This application provides features such as scanning vehicle parts to identify components and provide specific maintenance recommendations, AI bots to answer questions regarding problems, as well as recommendations for the nearest repair shop. Through this combination, our app will provide personalized guidance based on vehicle type and condition, so users can maximize the performance and lifespan of their vehicle. 
+The project aims to help users prevent costly repairs and support a more proactive and rewarding vehicle ownership experience. With MESRA, we want to create an intelligent digital assistant, making it easier for users to take better care of their vehicles and improve road safety. 
+
+
 
 ## Contributors
 |Path  |Name |Bangkit ID |University |
