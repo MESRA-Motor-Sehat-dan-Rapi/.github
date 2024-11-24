@@ -20,7 +20,7 @@ Team ID: ```CH2-PS277```
 |ML    |Nathania Eka Harto |M284B4KX3273 |Universitas Negeri Surabaya |
 |ML    |Faatih Sabiil An Najaah |M180B4KY1305 |Universitas Airlangga |
 |CC    |Arifatus Fitriani |C296B4KX0643 |Universitas Pembangunan Nasional Veteran Jawa Timur |
-|CC    |Irfan Efendi |C202B4KY2532 |Universitas Dr Soetomo |
+|CC    |Mochammad Irfan Efendi |C202B4KY2532 |Universitas Dr Soetomo |
 |MD    |Panca Dewi Fitriyana |A284B4KX3470 |Universitas Negeri Surabaya |
 |MD    |Hana Alyakinanti |A284B4KX1697 | Universitas Negeri Surabaya |
 
